@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there! 👋 I'm Aniruddha Mitra</h1>
-  <h3>3rd Year B.Tech Student | Software Developer</h3>
+  <h3>B.Tech Student | Software Developer</h3>
   
   <p>
     Passionate about building impactful technology, from accessible hardware solutions to secure web applications. Always eager to learn, build, and collaborate.
