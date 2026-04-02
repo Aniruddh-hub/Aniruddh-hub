@@ -68,4 +68,6 @@
 <br>
 
 ## 📊 GitHub Analytics
-<img src="https://github-readme-stats.vercel.app/api?username=aniruddha-mitra&show_icons=true&theme=transparent&hide_border=true&title_color=00599C&icon_color=00599C" alt="Aniruddha's GitHub Stats" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aniruddh-hub&show_icons=true&theme=transparent&hide_border=true&title_color=00599C&icon_color=00599C" alt="Aniruddha's GitHub Stats" />
+</div>
